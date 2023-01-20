@@ -85,9 +85,12 @@ tweet_id | tweet_date | tweet_content | likes | retweets
 1598014522098208800 | 2022-11-30 18:02:06+00 | Try talking with ChatGPT, our new AI system which... | 13031| 3421
 1588214604798181400 | 2022-11-03 17:00:44+00 | Weâ€™ve just launched the DALLÂ·E API so developer... | 3700| 717 
 
+---
+
 ## Visualisation
 
 <img width="583" alt="Dashboard_twitter" src="https://user-images.githubusercontent.com/73239506/213712169-72bae039-e473-44e6-8854-5367aa7c41d0.PNG">
+---
 
 ## Personal Contributions
 
