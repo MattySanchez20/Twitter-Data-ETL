@@ -86,6 +86,12 @@ tweet_id | tweet_date | tweet_content | likes | retweets
 
 [Back To The Top](#twitter-data-etl)
 
+## Personal Contributions
+
+- Developed the code to connect Postgres with Python
+- Ensured that the algorithm would not replace or repeat data points in existing databases
+- Queried the database using SQL
+- Visualised and analysed the data using PowerBI
 ---
 
 ## Authors Info
