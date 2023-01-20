@@ -47,9 +47,9 @@ The primary goal of the project is to collect data on the engagement of the Open
 - SQL
 
     Used in pgAdmin to query the database.
-
-[Back To The Top](#twitter-data-etl)
-
+    
+- PowerBI
+    The software of choice to visualise and analyse the data
 ---
 
 ## Database
