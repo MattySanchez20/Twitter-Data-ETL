@@ -1,6 +1,6 @@
 # Twitter Data ETL
 
-![MicrosoftTeams-image_1](https://user-images.githubusercontent.com/71076769/212990225-eeec3993-703b-4c33-ac82-797cb7449089.png)
+![ETL](https://user-images.githubusercontent.com/73239506/213689246-2c024979-daa0-46e5-8e4b-6d1bafa95b0a.png)
 
 > An ETL (Extract, Transform and Load) pipeline that utilizes the Twitter API to gather the number of likes and retweets of OpenAI's tweets and loads the data into pgAdmin.
 
