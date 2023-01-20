@@ -85,8 +85,6 @@ tweet_id | tweet_date | tweet_content | likes | retweets
 1598014522098208800 | 2022-11-30 18:02:06+00 | Try talking with ChatGPT, our new AI system which... | 13031| 3421
 1588214604798181400 | 2022-11-03 17:00:44+00 | Weâ€™ve just launched the DALLÂ·E API so developer... | 3700| 717 
 
-[Back To The Top](#twitter-data-etl)
-
 ## Personal Contributions
 
 - Developed the code to connect Postgres with Python
