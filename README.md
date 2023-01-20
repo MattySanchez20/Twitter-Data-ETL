@@ -49,6 +49,7 @@ The primary goal of the project is to collect data on the engagement of the Open
     Used in pgAdmin to query the database.
     
 - PowerBI
+
     The software of choice to visualise and analyse the data
 ---
 
