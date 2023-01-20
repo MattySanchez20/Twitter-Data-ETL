@@ -90,8 +90,8 @@ tweet_id | tweet_date | tweet_content | likes | retweets
 ## Visualisation
 
 <img width="583" alt="Dashboard_twitter" src="https://user-images.githubusercontent.com/73239506/213712169-72bae039-e473-44e6-8854-5367aa7c41d0.PNG">
----
 
+---
 ## Personal Contributions
 
 - Developed the code to connect Postgres with Python
